@@ -1,5 +1,5 @@
 ![Mehmet Kudsi Odaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkudsiodaman&show_icons=true&theme=dark)
-
+![](https://komarev.com/ghpvc/?username=mehmetkudsiodamancolor=blueviolet)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkudsiodaman&theme=dark)
 
